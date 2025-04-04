@@ -168,7 +168,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: This is so skibidi i almost died.
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: the skibidi rizzler
         text: |+
 
