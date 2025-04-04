@@ -9,16 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: ''
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/Screenshot 2025-04-04 123919.png
       altText: Unblock your team boost your time to production preview
