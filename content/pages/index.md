@@ -170,10 +170,9 @@ sections:
       - title: This is so skibidi i almost died.
         tagline: Testimonial 1
         subtitle: the skibidi rizzler
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
