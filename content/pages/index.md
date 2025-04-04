@@ -174,7 +174,7 @@ sections:
 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/GorillaFur_kopia_2.png
           altText: Maria Walters
           styles:
             self:
