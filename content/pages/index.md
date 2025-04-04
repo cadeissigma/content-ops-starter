@@ -7,7 +7,7 @@ sections:
       text: 'Watermelon, as an executor.'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: ''
     actions:
       - label: Get started
